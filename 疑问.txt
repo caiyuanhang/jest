@@ -1,0 +1,8 @@
+jest
+babel-jes
+babel-preset-env
+babel-preset-react
+react-rest-rendere：负责将组件输出成JSON对象
+renderer下面的方法：
+create()、toJSON()、toMatchSnapshot()、expect
+
